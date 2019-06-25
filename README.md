@@ -1,5 +1,5 @@
 # vSphere plus vSAN and/or NSX Community Resources
-vCommunity resources for people upgrading environments that have vSphere plus vSAN and/or NSX
+vCommunity resources for people upgrading environments that have vSphere plus vSAN and/or NSX. Feel free to add to it for the benefit of the #vCommunity!
 
 ## Blog posts 
 
